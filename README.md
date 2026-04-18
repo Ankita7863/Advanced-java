@@ -1,4 +1,4 @@
-arraylist:
+<img width="519" height="313" alt="Screenshot 2026-04-19 004729" src="https://github.com/user-attachments/assets/07846e0d-0e13-4bd4-ab96-934e44cfcd2d" />arraylist:
 1b  o/p 1 link : https://github.com/user-attachments/assets/bf2dde74-aa24-4689-b92e-972883bffad4
 
 1b  o/p 2 link : https://github.com/user-attachments/assets/3659402b-8ecf-4da7-a0ad-22dc83b704da
@@ -15,6 +15,10 @@ linkedlist:
 1c o/p 2 link : https://github.com/user-attachments/assets/1b2cd085-0050-47ad-bece-13c9079f0387
 
 1c o/p 3 link : https://github.com/user-attachments/assets/ac134973-d2e9-45fb-8137-e6806dc84222
+
+1c o/p 4 link : https://github.com/user-attachments/assets/e7bd7fad-4e68-4a59-b2c9-47fbb376718b
+
+
 
 
 
