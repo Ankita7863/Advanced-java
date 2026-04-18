@@ -5,5 +5,10 @@ arraylist:
 
 1b  o/p 3 link : https://github.com/user-attachments/assets/6ef3b944-5493-4ad2-8179-11157ff2ce19
 
+1b o/p 4 link : https://github.com/user-attachments/assets/1bb1d40a-f01f-4b44-ac70-f624a0c1b1b3
+
+
+
+
 
 
