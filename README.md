@@ -18,9 +18,11 @@ linkedlist:
 
 1c o/p 4 link : https://github.com/user-attachments/assets/e7bd7fad-4e68-4a59-b2c9-47fbb376718b
 
+1c o/p 5 link : https://github.com/user-attachments/assets/2d94c410-1fa4-4910-a500-bccb1c49c495
 
 
 
+ 
 
 
 
