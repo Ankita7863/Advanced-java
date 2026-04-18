@@ -9,6 +9,8 @@ arraylist:
 
 1b o/p 5 link : https://github.com/user-attachments/assets/83e1436c-be57-42bf-8433-a54fbaa556bb
 
+linkedlist:
+1c o/p 1 link : https://github.com/user-attachments/assets/8a8d6e3d-12cc-4c2b-965a-5de5419fa015
 
 
 
