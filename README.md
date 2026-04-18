@@ -1,3 +1,5 @@
+1a   https://github.com/user-attachments/assets/b69495dd-a143-439d-ba0b-b925eb8e75a2
+
 arraylist:
 1b  o/p 1 link : https://github.com/user-attachments/assets/bf2dde74-aa24-4689-b92e-972883bffad4
 
