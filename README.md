@@ -11,6 +11,7 @@ arraylist:
 
 linkedlist:
 1c o/p 1 link : https://github.com/user-attachments/assets/8a8d6e3d-12cc-4c2b-965a-5de5419fa015
+1c o/p 2 link :  https://github.com/user-attachments/assets/40dcea82-b59a-4de5-bc11-c11d8177d10a
 
 
 
