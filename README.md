@@ -7,6 +7,7 @@ arraylist:
 
 1b o/p 4 link : https://github.com/user-attachments/assets/1bb1d40a-f01f-4b44-ac70-f624a0c1b1b3
 
+1b o/p 5 link : https://github.com/user-attachments/assets/83e1436c-be57-42bf-8433-a54fbaa556bb
 
 
 
