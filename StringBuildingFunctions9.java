@@ -1,3 +1,4 @@
+//*Write a Java Program for Creating a random string of a specified length using user defined function generateRandomString()
 package lab3b;
 
 public class StringBuildingFunctions9 {
