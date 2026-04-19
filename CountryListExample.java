@@ -1,5 +1,5 @@
-//*Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada, Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore
-//*into a JList and display the capital of thecountries on console whenever the countries are selected on the list.
+//*Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada, Denmark, France, Great Britain, Japan, Africa,
+//*Greenland, Singaporeinto a JList and display the capital of thecountries on console whenever the countries are selected on the list.
 
 
 package SwingsJlist;
