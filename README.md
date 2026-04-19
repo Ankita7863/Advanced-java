@@ -29,7 +29,11 @@ linkedlist:
 
 3a o/p link : https://github.com/user-attachments/assets/032e166f-7b0f-49c2-8c5e-9d8cbf12c1d2 ,https://github.com/user-attachments/assets/2ffed893-6639-4d85-b68e-a9018718ef7b
 
-3b o/p 1 link :https://github.com/user-attachments/assets/eb66f9b6-e08e-465f-a89f-d1f39401bb53
+3b o/p 1 link :https://github.com/user-attachments/assets/301a0b8e-9150-4f34-bd5c-f17481846289
+
+
+
+
 
 3b o/p 3 link :https://github.com/user-attachments/assets/45917498-dd37-4670-9d56-aedcafce690b
 
