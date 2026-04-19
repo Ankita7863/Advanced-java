@@ -1,3 +1,4 @@
+
 1a   https://github.com/user-attachments/assets/b69495dd-a143-439d-ba0b-b925eb8e75a2
 
 arraylist:
@@ -32,9 +33,8 @@ linkedlist:
 
 4b o\p link : https://github.com/user-attachments/assets/bdb8b21b-bff0-4de9-bc12-7f8b145d0b67
 
-4 o/p link :
+5a o/p link : https://github.com/user-attachments/assets/db71a429-4429-45b4-b556-a456ebabdff7
 
-5a o/p link :
 
 
 
