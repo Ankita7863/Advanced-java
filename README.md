@@ -53,6 +53,7 @@ linkedlist:
 
 3c o/p 4 link:  https://github.com/user-attachments/assets/39d2f0bd-1472-42e9-8233-7caa665c4965
 
+3c o/p 5 link :https://github.com/user-attachments/assets/d3104528-8ac9-4cf4-96f3-6689f333522a
 
 
 
