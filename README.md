@@ -24,6 +24,9 @@ linkedlist:
 
 2a o/p link :  https://github.com/user-attachments/assets/b0869f79-b325-4642-a7d3-72192dc82913, https://github.com/user-attachments/assets/04f110f5-ff4b-47b2-af90-bf100bcbde3d
 
+2b o/p liink : https://github.com/user-attachments/assets/29231223-bcaf-4a3b-948b-2ade447c7bfc
+
+
 
 
  
