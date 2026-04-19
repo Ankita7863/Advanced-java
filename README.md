@@ -32,6 +32,10 @@ linkedlist:
 
 4b o\p link : https://github.com/user-attachments/assets/bdb8b21b-bff0-4de9-bc12-7f8b145d0b67
 
+4 o/p link :
+
+5a o/p link :
+
 
 
 
