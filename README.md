@@ -35,6 +35,9 @@ linkedlist:
 
 5a o/p link : https://github.com/user-attachments/assets/db71a429-4429-45b4-b556-a456ebabdff7
 
+5b o/p link : https://github.com/user-attachments/assets/d9ac020f-c4f9-4572-8337-9288f1d71e63
+
+
 
 
 
