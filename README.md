@@ -31,6 +31,10 @@ linkedlist:
 
 3b o/p 1 link :https://github.com/user-attachments/assets/eb66f9b6-e08e-465f-a89f-d1f39401bb53
 
+3b o/p 3 link :
+https://github.com/user-attachments/assets/45917498-dd37-4670-9d56-aedcafce690b
+
+
 
 4a o/pp link :https://github.com/user-attachments/assets/36ca61ef-b2b4-41f8-910f-311d0a4879da
 
